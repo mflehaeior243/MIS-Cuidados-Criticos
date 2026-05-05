@@ -1,0 +1,6 @@
+@MIS_Cuidados_Criticos_HostAddress = http://localhost:5075
+
+GET {{MIS_Cuidados_Criticos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
